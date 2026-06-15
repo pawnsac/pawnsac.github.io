@@ -24,4 +24,4 @@ latest_posts:
 
 I’m a PhD student at the University of Arizona, broadly interested in Networks and Security. My recent work includes projects on LEO Networks, binary code authorship analysis, software debloating, and the application of AI in legal contexts.
 
-Outside of work, I enjoy playing chess, particularly blitz. My peak Chess.com blitz rating is above 2400, and I’ve achieved a USCF rating above 2000, qualifying as a USCF Expert.
+Outside of work, I enjoy playing chess, especially blitz. My peak Chess.com blitz rating is above 2400, and I hold a USCF rating above 2000 (USCF Expert title).
